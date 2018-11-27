@@ -1,0 +1,26 @@
+body {
+ background-color:beige;
+}
+h1 {
+ text-align:center;
+}
+
+th {
+ min-width: 250px;
+ border: 2px solid black;
+ }
+
+tr {
+border: 2px solid black;
+}
+
+td {
+ border: 2px solid black;
+}
+
+#jobTable {
+ background-color: BlanchedAlmond;
+ text-align:left;
+ border: 1px solid black;
+ width: 100%;
+ }
